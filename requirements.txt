@@ -1,2 +1,10 @@
 pandas
 PIL
+numpy
+pytesseract
+ocrd-fork-pylsd
+python-opencv
+scipy
+seaborn
+kneed
+scikit-learn-extra
