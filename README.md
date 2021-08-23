@@ -15,6 +15,7 @@ Pista-Latente-ML
 # Descripión
 
 En este repositorio se encontrara el código fuente de los algoritmos desarrollados para el reto 1 y 2, durante el Hackathon RIIAA 2021 "JusticIA para los desaparecidos".
+De igual forma, los entregables **csv** para cada reto podrán ser encontrados dentro de la carpeta output de cada reto.
 
 # Pipeline
 ## Reto 1
